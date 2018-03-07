@@ -1,0 +1,55 @@
+read statment found
+statment found
+factor found
+term found
+simple expression found
+comaprsion operator found
+factor found
+term found
+simple expression found
+expression found
+factor found
+term found
+simple expression found
+expression found
+assign statment found
+statment found
+factor found
+mul operator found
+factor found
+term found
+simple expression found
+expression found
+assign statment found
+statment found
+factor found
+term found
+add operator found
+factor found
+term found
+simple expression found
+expression found
+assign statment found
+statment found
+statment sequence found
+factor found
+term found
+simple expression found
+coparison operator found
+factor found
+term found
+simple expression found
+expression found
+repeat statment found
+statment found
+factor found
+term found
+simple expression found
+expression found
+write statment found
+statment found
+statment sequence found
+if statment found
+statment found
+statment sequence found
+Program found

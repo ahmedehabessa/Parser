@@ -1,0 +1,32 @@
+ read :reserved word
+ x :identefier
+ ; :special symbol
+ if :reserved word
+ 0 :number
+ < :special symbol
+ x :identefier
+ then :reserved word
+ fact :identefier
+ := :assingment
+ 1 :number
+ ; :special symbol
+ repeat :reserved word
+ fact :identefier
+ := :assingment
+ fact :identefier
+ * :special symbol
+ x :identefier
+ ; :special symbol
+ x :identefier
+ := :assingment
+ x :identefier
+ - :special symbol
+ 1 :number
+ until :reserved word
+ x :identefier
+ = :special symbol
+ 0 :number
+ ; :special symbol
+ write :reserved word
+ fact :identefier
+ end :identefier
